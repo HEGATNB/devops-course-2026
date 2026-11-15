@@ -1,0 +1,5 @@
+*.retry
+.ansible/
+ansible/inventory/bootstrap.ini
+ansible/inventory/prod.ini
+ansible/inventory/*.local.ini
