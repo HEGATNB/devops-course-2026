@@ -1,0 +1,2 @@
+[vm]
+devops-vm ansible_host=REPLACE_WITH_HOST_ONLY_IP ansible_port=22 ansible_user=devops ansible_private_key_file=~/.ssh/devops_vm

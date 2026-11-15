@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/hegatnb/devops-ci-app"
+app_tag: "d56d7eac2991426bb5a989e1284e738f646aa1e2"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
